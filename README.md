@@ -5,23 +5,23 @@ This notebook explains the detailed working of AdaBoost algorithm.
 The following are explained in this notebook: 
 
 ## Table of Contents
-* [Import necessary libraries]
-* [Data loading]
-* [Data Interpretation]
-* [Data preprocessing]
-* [Data Visualization]
-    * [Univariate Analysis]
-* [Automated EDA]
-    * [Dataprep]
-    * [Pandas-profiling]
+* [Import necessary libraries](#Import_necessary_libraries)
+* [Data loading](#Data_loading)
+* [Data Interpretation](#Data_Interpretation)
+* [Data preprocessing](#Data_preprocessing)
+* [Data Visualization](#Data_Visualization)
+    * [Univariate Analysis](#univariate_analysis)
+* [Automated EDA](#Automated_EDA)
+    * [Dataprep](#dataprep)
+    * [Pandas-profiling](#pandas_profiling)
     * [Sweetviz](#sweetviz)
-* [Feature Engineering]
-    * [Correlation]
-    * [Feature Scaling]
-    * [Feature Importance]
-        * [Using Decision Tree]
-        * [Using Random Forest]
-* [Model Building]
-* [Evaluation metrics]
-* [Decision boundaries]
-* [Hyperparameter Tuning]
+* [Feature Engineering](#Feature_Engineering)
+    * [Correlation](#correlation)
+    * [Feature Scaling](#Feature_Scaling)
+    * [Feature Importance](#Feature_Importance)
+        * [Using Decision Tree](#decision_tree)
+        * [Using Random Forest](#random_forest)
+* [Model Building](#Model_Building)
+* [Evaluation metrics](#Evaluation_metrics)
+* [Decision boundaries](#Decision_boundaries)
+* [Hyperparameter Tuning](#Hyperparameter_Tuning)
